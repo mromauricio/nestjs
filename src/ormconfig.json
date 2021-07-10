@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "mauriciooliveira",
+  "password": "",
+  "database": "mauriciooliveira",
+  "entities": ["Usuario", "Client"],
+  "synchronize": true,
+  "logging": true
+}
